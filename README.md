@@ -48,7 +48,28 @@ A secure and user-friendly cloud-based file storage system that allows users to 
 
 ---
 
-## 🤖 3. AI Code Reviewer – AI-Powered JavaScript Review App
+## 📸 3. Pinterest Clone – Image Sharing Platform
+
+### 📝 Description
+A Pinterest-like web application that allows users to create and share image-based posts with descriptions, edit their feeds, and manage profile pictures.
+
+### 🔧 Tech Stack
+- **Frontend:** EJS (Server-Side Rendering)  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT  
+- **File Handling:** Multer  
+
+### ✨ Features
+- Secure **JWT authentication** for sign-up and sign-in  
+- Upload and update **profile pictures (DP)** using **Multer**  
+- Create posts with **images and descriptions**  
+- Edit or update user feeds dynamically  
+- Built using **Express.js** with modular and maintainable structure  
+
+---
+
+## 🤖 4. AI Code Reviewer – AI-Powered JavaScript Review App
 
 ### 📝 Description
 An intelligent code review web application that uses **Google Gemini API** to provide AI-based feedback, suggestions, and improvements for JavaScript code snippets.
@@ -64,4 +85,6 @@ An intelligent code review web application that uses **Google Gemini API** to pr
 - Real-time **syntax highlighting** using Prism.js  
 - Clean **coding interface** with Markdown-formatted AI output  
 - Modular backend with **controllers**, **routes**, and **AI service** layers  
-- Ensures **secure API communication** and **maintainable structure** 
+- Ensures **secure API communication** and **maintainable structure**  
+
+---
